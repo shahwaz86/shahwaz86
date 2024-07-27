@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning java and dsa.
 - 💞️ I’m looking to collaborate on open source.
-- 📫 How to reach me 
+- 📫 How to reach me shahwaz575@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
