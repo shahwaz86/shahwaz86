@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahwaz86
+- 👋 Hi, I’m @shahwaz
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning java and dsa.
 - 💞️ I’m looking to collaborate on open source.
